@@ -20,7 +20,7 @@ Makes an HTTP PUT for each file on the selected URL. I allows to define custon o
 ## Installation
 
 ```bash
-$ npm i gulp-http-put
+$ npm install gulp-http-put --save-dev
 ```
 
 ## Examples
