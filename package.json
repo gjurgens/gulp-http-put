@@ -1,6 +1,6 @@
 {
   "name": "gulp-http-put",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "Post buffer to current url on pipe, and handle http responses",
   "main": "index.js",
   "scripts": {
